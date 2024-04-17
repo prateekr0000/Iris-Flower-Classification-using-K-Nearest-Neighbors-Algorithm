@@ -3,11 +3,21 @@ This project uses the K-Nearest Neighbors (KNN) algorithm to classify Iris flowe
 
 
 # The project involves the following steps:
-Data collection and preparation
-Data exploration and visualization
-Training and testing data division
-Feature scaling
-Model building using KNN algorithm
-Model evaluation using accuracy score and confusion matrix
+-Data collection and preparation
+
+
+-Data exploration and visualization
+
+
+-Training and testing data division
+
+
+-Feature scaling
+
+
+-Model building using KNN algorithm
+
+
+-Model evaluation using accuracy score and confusion matrix
 
 This project is implemented using Python and popular libraries: NumPy, Pandas, Matplotlib, and Scikit-learn.
